@@ -19,7 +19,7 @@ export default function Opdracht1() {
       // In deze MainContainer kun je vervolgens andere componenten plaatsen.
       // Zie hieronder het voorbeeld met de View en Text componenten
       <View style={styles.mainContainer}>
-        <Text>Lees de opdrachten onder de function Opdracht1!</Text>
+      
       </View>
     );
   }
@@ -36,8 +36,7 @@ export default function Opdracht1() {
       flex: 1,
       flexDirection: 'column',
       backgroundColor: '#fff',
-      justifyContent: 'center',
-      alignItems: 'center',
+ 
 
     },
     redContainer: {
